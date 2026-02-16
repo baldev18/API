@@ -1,0 +1,12 @@
+echo "<li><a href='baldev/usersinsert.php'>insert users </a></li>";
+echo "<li><a href='baldev/usersdelete.php'> delete users </a></li>";
+echo "<li><a href='baldev/usersupdate.php'>update users </a></li>";
+echo "<li><a href='baldev/usersview.php'>view users </a></li>";
+echo "<li><a href='baldev/trackerinsert.php'>insert tracker</a></li>";
+echo "<li><a href='baldev/trackerdelete.php'>delete tracker</a></li>";
+echo "<li><a href='baldev/trackerupdate.php'>update tracker</a></li>";
+echo "<li><a href='baldev/trackerview.php'>view tracker </a></li>";
+echo "<li><a href='baldev/expense_categoryinsert.php'>insert expense_category </a></li>";
+echo "<li><a href='baldev/expense_category delete.php'>delete expense_category </a></li>";
+echo "<li><a href='baldev/expense_category update.php'>update expense_category </a></li>";
+echo "<li><a href='baldev/expense_category view.php'>view expense_category </a></li>";
